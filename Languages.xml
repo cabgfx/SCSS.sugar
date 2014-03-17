@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+    <language id="com.cabgfx.scss">
+        <root-zone>language-root.css</root-zone>
+
+        <name>SCSS</name>
+
+        <detectors>
+            <extension>scss</extension>
+        </detectors>
+    </language>
+</settings>
